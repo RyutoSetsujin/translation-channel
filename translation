@@ -393,12 +393,12 @@ Police Soukan
 Ch-
 Dz
 x
-戻る
-ﾒﾆｭｰ
-メモ
-掘る
-完了
-ﾀｲﾄﾙ
+Back
+Menu
+Memo
+Dig
+Finish
+Title
 (
 /
 )
@@ -413,3 +413,5 @@ Loading...
 %attr%s攻 %atk /守 %def /早 %agi /精 %spi
 %attr%s消費精神力%pow
 -- 
+Return to the title screen?
+Exit the game?
