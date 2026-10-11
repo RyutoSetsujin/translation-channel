@@ -16,28 +16,28 @@ Summary
 Map
 Data
 Settings
-Location:
-所持金:
-ラジーポイント:
-行動グループを切り替えます。
-アイテムを使用します。
-能力を変更します。
-あらすじを確認します。
-今いる場所や目的地を確認します。
-データの保存／読み込みを行ないます。
-設定を変更します。
-行動グループを切り替えます。<br>別行動可能なグループはありません。
-行動グループを切り替えます。<br>現在チャンネル変更は出来ません。
-設　定
-実行確認
-音　　量
-振動機能
-メニューに戻る
-セーブせずにタイトル画面へ戻る
-現在プレイ中の状態を保存せずに
-タイトル画面に戻ります。
-本当によろしいですか？
-無
+Location: 
+Cash: 
+Raji Points: 
+Change the channel.
+Manage your items.
+Manage your ability points.
+Check the story synopsis.
+Check your current location,<br>and where you need to go.
+Save and load your play data.
+Adjust various settings.
+Change the channel.<br>There are no groups that can act on their own.
+Change the channel.<br>You can't do this right now.
+Settings
+Confirm
+Volume
+Vibration
+Back to Menu
+Return to Title (Without Saving)
+You're about to return to the title
+screen without saving your progress.
+Are you sure you want to do this?
+0
 1
 2
 3
@@ -46,53 +46,53 @@ Location:
 ON
 OFF
 Data
-Saving in progress...
-Loading data...
+Saving...
+Loading...
 Save your game
 Load a previous save file
-この処理中にアプリを終了させたり携帯
-電話の電源を切るとデータが正常に保存
-されない危険性があります。
-データの保存が完了しました。
-･･･保存中･･･
-前に保存したデータを読み込むと
-今の状態は失われます。
-本当に実行してもよろしいですか？
-能 力
-能力変更を行なう
-キャンセル
-実行
+Do not close the game.
+Doing so has a possibility
+to corrupt your save data.
+Data saved successfully.
+･･･SAVING･･･
+When you load your previous save,
+you'll lose where you are now.
+Are you sure you want to continue?
+Ability
+Change your abilities.
+Cancel
+Confirm
 ？？？？？？？
-<通常>　
-<熱血>　
-<クール>
-<精神>　
-攻　撃
-守　り
-素早さ
-精神力
-残りポイント
+<Normal>　
+<Feisty>　
+<Cool>
+<Spiritual>　
+Attack
+Defense
+Speed
+Int.
+Points left: 
 x
-変更前に戻す
-変更完了
-敵に与えるダメージに関係する
-敵から受けるダメージに関係する
-行動順に関係する
-特殊技のダメージに関係する
-<br>左/右(4/6)キーで振り分けを変更。
-特殊技
-残りの能力ポイントを全て<br>振り分けてください！
-キーアイテム
-消費アイテム
-最大3つのメッセージを登録できます。
-行動するチャンネルを選んでください。
+Revert
+Save
+Affects damage done to enemies.
+Affects damage taken from enemies.
+Influences the turn order.
+Affects special move damage.
+<br>Spend points with left/right (4/6).
+Skills
+Please spend your<br>remaining points!
+Key Item
+Consumables
+You can register up to 3 messages.
+Please select a channel.
 Lv
-:最大体力
- 最大知力
-次レベルまであと 
+:Max HP
+ Max MP
+Next level in:  
 exp
 Use
-Who will you use this on?
+Who will you use [item] on?
 Commands
 Fight
 Co-Op
@@ -104,36 +104,36 @@ Guard
 Co-Op
 Swoon
 Rest
-Surprise
+Shock
  
-あらすじ
-行き先がわからないときは<br>全体マップを見てみよう！
-凡例
-現在地
-エリア
-目的地
-サンライトシティ全図
-エリア名：下町居住区<br>多くの住民が住む場所。喫茶店もある。
-エリア名：下町東<br>バッカク堂やメトロがある商店街。
-エリア名：下町西<br>公園や田園に向かう際に通る中継点。
-エリア名：下町公園<br>空が見たい時に最適な丘の上の公園。
-エリア名：旧居住区<br>老朽化した建物ばかりで住人は少ない。
-エリア名：ネオン街<br>ビルの影でいつも夜のような歓楽街。
-エリア名：シティの外<br>何も無い荒野。
-エリア名：港<br>古びて使われていない港。
-エリア名：中心地<br>企業のビルやポリス本部がある。
-エリア名：放送局<br>テレビ放送施設。放送タワーがある。
-エリア名：田園<br>農耕地帯で謎の観測所がある。
-エリア名：ヨノアノ島<br>不気味な島である。
-エリア名：アストランド<br>ＬＳドロップで行ける不思議な世界。
-エリア名：？？？
+Summary
+If you're lost,<br>check out the map!
+Legend
+You
+Area
+Goal
+Sunlight City Map
+Area: Downtown Residential District<br>A bustling district with a cafe.
+Area: Shitamachi East<br>A shopping street with a Bakkaku-do and Metro.
+Area: Shitamachi West<br>A waypoint between parks and rural areas.
+Area: Shitamachi Park<br>A park atop a hill, perfect for seeing the sky.
+Area: Old Residential District<br>Everything's destroyed, so nobody lives here.
+Area: Neon District<br>A nightlife entertainment district.
+Area: City Outskirts<br>The barren wilderness.
+Area: Port<br>An old, disused port.
+Area: City Center<br>Corporate buildings and the police HQ can be found here.
+Area: Broadcast Station<br>A TV broadcast station. Features a broadcast tower.
+Area: Den-en<br>There's a mysterious observatory in this agricultural zone.
+Area: Yonoano Island<br>An eerie island.
+Area: Astroland<br>A mysterious world accessible through LS drops.
+Area: ???
 TOP
-ゲームマニュアル
-基本的な遊びかた
-ゲームメニュー
-バトル
-能力の変更
-アドバイス
+Game Guide
+Basic Gameplay
+Menu
+Battle
+Abilities
+Tips
 #itemData(binary.bin)
 回復ドリンク
 最大体力の30%回復<br>味方一人
@@ -172,22 +172,22 @@ TOP
 入局許可証
 放送局に入る為の許可証
 #statusData(binary.bin)
-セパスチャン
-ガール
-ワン
-ボーイ
+Sepas-chan
+Girl
+Wan
+Boy
 Local Police
 Big Police
 Policewoman
 Armed Police
 Super Police
 Police Soukan
-つうほうマシン
-けいびマシン
-ちんあつマシン
-ほかくマシン
-あんさつマシン
-究極マシン
+Alert Machine
+Security Robot
+Compost Machine
+Capture Machine
+Killing Machine
+Ultimate Machine
 きらきらした奴
 ゴミをあらす奴
 だらっとした奴
@@ -226,7 +226,7 @@ Police Soukan
 サイコブラスト
 敵全体を精神攻撃が襲う。
 気合パンチ
-力を溜めてからパンチ！
+Charge up your power, then release!
 逃走ダッシュ
 気合を入れて逃走する。
 熱血パンチ
